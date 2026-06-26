@@ -10,9 +10,9 @@ from medical imaging to environmental policy.
 
 ### What I work with
 
-- **Languages:** Python, R, SQL
-- **Methods:** Bayesian inference & MCMC, regression (linear, logistic, beta), design of
-  experiments, machine learning
+- **Languages:** Python, R, SQL, LaTeX
+- **Methods:** Bayesian Inference & MCMC, Regression (linear, logistic, beta, ridge, lasso), GLM, Design of
+  Experiments, Machine Learning
 - **Tools:** PyTorch, statsmodels, scikit-learn, spatial data (sf, terra), Tableau
 
 ### Featured projects
@@ -22,7 +22,7 @@ from medical imaging to environmental policy.
   from raw spatial data (FGDL, NLCD, Census) to a written executive summary.
 - **[pli-lifetime-estimation](https://github.com/katrinastephenson/pli-lifetime-estimation)** —
   Maximum-likelihood and conjugate Bayesian estimators for positronium decay rates; an early
-  piece of my thesis methodology.
+  "toy example" of some of my thesis methodology (to be published post-defense this fall)
 - **[paper-helicopter-doe](https://github.com/katrinastephenson/paper-helicopter-doe)** —
   A hands-on design-of-experiments study (factorial and response-surface designs) optimizing
   paper-helicopter flight time from data I collected.
