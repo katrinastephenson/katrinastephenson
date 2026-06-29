@@ -10,10 +10,10 @@ from medical imaging to environmental policy.
 
 ### What I work with
 
-- **Languages:** Python, R, SQL, LaTeX
+- **Languages:** Python, R, SQL
 - **Methods:** Bayesian Inference & MCMC, Regression (linear, logistic, beta, ridge, lasso), GLM, Design of
   Experiments, Machine Learning
-- **Tools:** PyTorch, statsmodels, scikit-learn, spatial data (sf, terra), Tableau
+- **Tools:** PyTorch, statsmodels, scikit-learn, spatial data (sf, terra), LaTeX, Tableau
 
 ### Featured projects
 
